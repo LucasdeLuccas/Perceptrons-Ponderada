@@ -1,5 +1,3 @@
-Claro, aqui está um exemplo de README em formato markdown que você pode utilizar no GitHub para o seu projeto:
-
 
 # Perceptrons-Multi-Camada
 
