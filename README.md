@@ -1,7 +1,9 @@
 
 # Perceptrons-Multi-Camada
 
-## MLP para Resolver o Problema do XOR
+## Demonstração
+
+Link Google Colab: https://colab.research.google.com/drive/1qZRzm47BTReJhXL9b-gwIUAjGyzZWwJV?usp=sharing
 
 ### Introdução
 
@@ -136,8 +138,6 @@ with torch.no_grad():
 ### Instalação
 Para executar este projeto no Google Colab, não é necessário instalar nada localmente. Basta acessar o link abaixo para o Google Colab e executar o projeto.
 
-### Demonstração
 
-Link Google Colab: https://colab.research.google.com/drive/1qZRzm47BTReJhXL9b-gwIUAjGyzZWwJV?usp=sharing
 
 
